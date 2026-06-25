@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "source": "Craig Burton / Raising Healthy Children",
-  "total": 95,
+  "total": 119,
   "recipes": [
     {
       "id": "b001",
@@ -8270,6 +8270,2176 @@
       ],
       "kidTip": "Cabbage hides beautifully in tomato sauce \u2014 most children eat it without noticing.",
       "ageTip": "Cabbage becomes very soft \u2014 suitable for all ages. Serve over rice for toddlers."
+    },
+    {
+      "id": "bb001",
+      "name": "Denver-Style Egg Bake",
+      "emoji": "\ud83c\udf73",
+      "slot": [
+        "breakfast"
+      ],
+      "cookMethod": "oven",
+      "time": "50 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "eggs",
+        "ham",
+        "capsicum",
+        "bake",
+        "batch cook",
+        "family"
+      ],
+      "keyIngredients": [
+        "eggs",
+        "ham",
+        "capsicum",
+        "onion",
+        "almond milk"
+      ],
+      "ingredients": [
+        {
+          "item": "Large eggs",
+          "qty": "12",
+          "category": "protein"
+        },
+        {
+          "item": "Nitrate-free ham, chopped",
+          "qty": "1\u00bd cups",
+          "category": "protein"
+        },
+        {
+          "item": "Red capsicum, finely chopped",
+          "qty": "\u00bd",
+          "category": "veggies"
+        },
+        {
+          "item": "White onion, finely chopped",
+          "qty": "\u00bd",
+          "category": "veggies"
+        },
+        {
+          "item": "Almond milk",
+          "qty": "\u2153 cup",
+          "category": "other"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        },
+        {
+          "item": "Avocado oil",
+          "qty": "1 tbsp",
+          "category": "fats"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 200\u00b0C / 400\u00b0F. Line a 23x33cm baking dish with baking paper.",
+        "Saut\u00e9 onion and capsicum in oil 3 minutes until soft.",
+        "Whisk eggs with almond milk, salt and pepper in a large bowl.",
+        "Arrange ham and saut\u00e9ed vegetables in baking dish.",
+        "Pour egg mixture over the top.",
+        "Bake 30\u201335 minutes until middle is set and firm to touch.",
+        "Cool before cutting and serving \u2014 great hot or cold."
+      ],
+      "nutrition": "Very high protein \u00b7 Packed with vegetables \u00b7 Great batch cook",
+      "nutritionSnapshot": [
+        "12 eggs across 4 serves delivers exceptional protein for the whole family",
+        "Ham adds extra protein with minimal extra effort",
+        "Bakes hands-free \u2014 pop it in and come back 35 minutes later"
+      ],
+      "kidTip": "Kids can help crack the eggs and whisk them with the milk.",
+      "ageTip": "Cut into small squares for toddlers. Soft texture suitable for all ages."
+    },
+    {
+      "id": "bb002",
+      "name": "Kitchen Sink Scrambler",
+      "emoji": "\ud83e\udd5a",
+      "slot": [
+        "breakfast"
+      ],
+      "cookMethod": "pan",
+      "time": "15 min",
+      "servings": 1,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "eggs",
+        "bacon",
+        "mushroom",
+        "spinach",
+        "quick"
+      ],
+      "keyIngredients": [
+        "eggs",
+        "bacon",
+        "mushrooms",
+        "spinach",
+        "onion"
+      ],
+      "ingredients": [
+        {
+          "item": "Eggs",
+          "qty": "2 large",
+          "category": "protein"
+        },
+        {
+          "item": "Bacon slices (nitrate-free), chopped",
+          "qty": "2",
+          "category": "protein"
+        },
+        {
+          "item": "White onion, finely chopped",
+          "qty": "1 tbsp",
+          "category": "veggies"
+        },
+        {
+          "item": "Mushrooms, finely chopped",
+          "qty": "1 tbsp",
+          "category": "veggies"
+        },
+        {
+          "item": "Capsicum, finely chopped",
+          "qty": "1 tbsp",
+          "category": "veggies"
+        },
+        {
+          "item": "Baby spinach, chopped",
+          "qty": "1 tbsp",
+          "category": "veggies"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Whisk eggs in a bowl and set aside.",
+        "Cook bacon in skillet over medium-high heat 3 minutes until fat releases.",
+        "Add onion, mushrooms and capsicum, saut\u00e9 3 minutes until bacon is brown.",
+        "Add spinach and stir 30 seconds until partially wilted.",
+        "Pour in eggs and stir 2 minutes until fluffy and scrambled.",
+        "Season and serve immediately."
+      ],
+      "nutrition": "High protein from eggs and bacon \u00b7 Iron from spinach \u00b7 No carbs",
+      "nutritionSnapshot": [
+        "Bacon fat adds rich flavour while providing healthy saturated fats",
+        "Spinach and capsicum add iron and vitamin C",
+        "Ready in 15 minutes \u2014 a genuinely quick high-protein breakfast"
+      ],
+      "kidTip": "Let kids choose what goes in from a selection of veggies \u2014 they eat what they picked.",
+      "ageTip": "Reduce bacon quantity for younger children. Chop everything very small for toddlers."
+    },
+    {
+      "id": "bb003",
+      "name": "Sausage & Spinach Egg Muffins",
+      "emoji": "\ud83e\uddc1",
+      "slot": [
+        "breakfast",
+        "snack",
+        "lunch"
+      ],
+      "cookMethod": "oven",
+      "time": "40 min",
+      "servings": 12,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "eggs",
+        "sausage",
+        "spinach",
+        "muffins",
+        "batch cook",
+        "lunchbox"
+      ],
+      "keyIngredients": [
+        "eggs",
+        "sausages",
+        "spinach",
+        "scallions",
+        "coconut milk"
+      ],
+      "ingredients": [
+        {
+          "item": "Eggs",
+          "qty": "8 large",
+          "category": "protein"
+        },
+        {
+          "item": "Full-fat coconut milk",
+          "qty": "\u00bd cup",
+          "category": "fats"
+        },
+        {
+          "item": "Cooked breakfast sausages, sliced",
+          "qty": "4",
+          "category": "protein"
+        },
+        {
+          "item": "Spinach, chopped",
+          "qty": "1 cup",
+          "category": "veggies"
+        },
+        {
+          "item": "Scallions (spring onions), chopped",
+          "qty": "\u00bc cup",
+          "category": "veggies"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "2",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 175\u00b0C / 350\u00b0F. Grease a 12-hole muffin tin.",
+        "Whisk eggs and coconut milk together in a large bowl.",
+        "Fold in sausage, spinach, scallions and garlic.",
+        "Season with salt and pepper.",
+        "Fill each muffin cup two-thirds full.",
+        "Bake 30\u201335 minutes until middle is set and no longer runny.",
+        "Cool in pan before removing. Store up to 4 days in fridge."
+      ],
+      "nutrition": "High protein \u00b7 Gluten-free \u00b7 Portable lunchbox food",
+      "nutritionSnapshot": [
+        "Each muffin provides protein from both eggs and sausage",
+        "Coconut milk makes these dairy-free and adds healthy fats",
+        "Make 12 on Sunday \u2014 breakfast or lunchbox sorted all week"
+      ],
+      "kidTip": "Kids can spoon the mixture into the muffin tin holes.",
+      "ageTip": "Perfect for all ages. Soft texture easy for toddlers. Cut in half if needed."
+    },
+    {
+      "id": "bb004",
+      "name": "Sweet Potato Hash Browns",
+      "emoji": "\ud83e\udd54",
+      "slot": [
+        "breakfast",
+        "snack"
+      ],
+      "cookMethod": "pan",
+      "time": "20 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "sweet potato",
+        "hash browns",
+        "crispy",
+        "paleo",
+        "kids favourite"
+      ],
+      "keyIngredients": [
+        "sweet potato",
+        "coconut oil",
+        "arrowroot"
+      ],
+      "ingredients": [
+        {
+          "item": "Sweet potatoes, peeled and shredded",
+          "qty": "3 cups (about 2 medium)",
+          "category": "carbs"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Arrowroot or tapioca flour",
+          "qty": "1 tbsp",
+          "category": "carbs"
+        },
+        {
+          "item": "Sea salt",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Black pepper",
+          "qty": "1 tsp",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Wrap shredded sweet potato in a clean towel and squeeze out excess moisture.",
+        "Heat coconut oil in a cast iron skillet over medium-high heat.",
+        "Combine sweet potato with arrowroot flour, salt and pepper.",
+        "Scoop 2 tablespoons at a time into the skillet and flatten with a spatula.",
+        "Fry 2\u20133 minutes until golden and crispy, flip, fry 2\u20133 more minutes.",
+        "Remove to a paper towel-lined plate to drain excess oil."
+      ],
+      "nutrition": "Beta-carotene from sweet potato \u00b7 Gluten-free \u00b7 Crispy and delicious",
+      "nutritionSnapshot": [
+        "Sweet potato provides beta-carotene and vitamin A",
+        "Arrowroot flour keeps these gluten-free and gives crispy edges",
+        "A healthier alternative to regular hash browns \u2014 kids love them"
+      ],
+      "kidTip": "Kids love the crispy texture. Serve with eggs for a complete breakfast.",
+      "ageTip": "Suitable for all ages. Cut small for toddlers."
+    },
+    {
+      "id": "bb005",
+      "name": "Fresh Herbed Breakfast Sausages",
+      "emoji": "\ud83c\udf3f",
+      "slot": [
+        "breakfast",
+        "lunch"
+      ],
+      "cookMethod": "pan",
+      "time": "15 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "pork",
+        "sausages",
+        "herbs",
+        "paleo",
+        "no additives"
+      ],
+      "keyIngredients": [
+        "pork mince",
+        "thyme",
+        "sage",
+        "garlic",
+        "onion powder"
+      ],
+      "ingredients": [
+        {
+          "item": "Pork mince",
+          "qty": "500g / 1 lb",
+          "category": "protein"
+        },
+        {
+          "item": "Dried thyme",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Dried sage",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Onion powder",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "1 tbsp",
+          "category": "fats"
+        }
+      ],
+      "steps": [
+        "Heat coconut oil in cast iron skillet over medium-high heat.",
+        "Mix pork with thyme, sage, salt, garlic and onion powder.",
+        "Divide into 8\u201310 balls and press each into a patty.",
+        "Fry 5 minutes per side until outer layer is crispy and cooked through (70\u00b0C / 160\u00b0F).",
+        "Serve immediately alongside eggs or as part of a full breakfast."
+      ],
+      "nutrition": "High protein \u00b7 No additives or nitrates \u00b7 Clean ingredients",
+      "nutritionSnapshot": [
+        "Homemade sausages contain none of the additives in store-bought versions",
+        "Pork provides high protein, B vitamins and zinc",
+        "Can be batch made and frozen \u2014 reheat in minutes"
+      ],
+      "kidTip": "Kids can help press the patties into shape \u2014 a satisfying hands-on job.",
+      "ageTip": "Ensure fully cooked through. Cut small for toddlers."
+    },
+    {
+      "id": "bb006",
+      "name": "Avocado Egg Tankers",
+      "emoji": "\ud83e\udd51",
+      "slot": [
+        "breakfast",
+        "snack"
+      ],
+      "cookMethod": "oven",
+      "time": "25 min",
+      "servings": 2,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "preschool",
+        "primary"
+      ],
+      "tags": [
+        "eggs",
+        "avocado",
+        "baked",
+        "simple",
+        "protein"
+      ],
+      "keyIngredients": [
+        "avocado",
+        "eggs"
+      ],
+      "ingredients": [
+        {
+          "item": "Large avocado, halved lengthwise",
+          "qty": "1",
+          "category": "fats"
+        },
+        {
+          "item": "Eggs",
+          "qty": "2 medium",
+          "category": "protein"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        },
+        {
+          "item": "Optional toppings: chives, bacon bits",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 220\u00b0C / 425\u00b0F.",
+        "Remove 1\u20132 tablespoons of avocado flesh from each half to create a well.",
+        "Place each avocado half in a muffin tin hole to prevent tipping.",
+        "Crack 1 egg into each avocado half.",
+        "Season with salt and pepper.",
+        "Bake 20 minutes until egg white is completely set.",
+        "Let stand 5 minutes, top with chives or bacon bits if desired."
+      ],
+      "nutrition": "Healthy fats from avocado \u00b7 Protein from egg \u00b7 Only 2 ingredients",
+      "nutritionSnapshot": [
+        "Avocado and egg together provide one of the most complete nutrient combinations",
+        "Healthy monounsaturated fats from avocado support brain development",
+        "Only 2 core ingredients \u2014 the simplest high-nutrition breakfast possible"
+      ],
+      "kidTip": "Kids find the egg baked inside the avocado absolutely fascinating.",
+      "ageTip": "Best for preschool age and up. Remove the avocado skin carefully before serving."
+    },
+    {
+      "id": "bb007",
+      "name": "Apple-Cinnamon Porridge (Grain-Free)",
+      "emoji": "\ud83c\udf4e",
+      "slot": [
+        "breakfast"
+      ],
+      "cookMethod": "one-pot",
+      "time": "25 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "apple",
+        "cinnamon",
+        "porridge",
+        "grain-free",
+        "paleo",
+        "warming"
+      ],
+      "keyIngredients": [
+        "coconut milk",
+        "cauliflower",
+        "apple",
+        "cinnamon",
+        "maple syrup"
+      ],
+      "ingredients": [
+        {
+          "item": "Full-fat coconut milk",
+          "qty": "2 cups",
+          "category": "fats"
+        },
+        {
+          "item": "Cauliflower rice",
+          "qty": "\u00bd cup",
+          "category": "veggies"
+        },
+        {
+          "item": "Shredded coconut",
+          "qty": "\u00bd cup",
+          "category": "fats"
+        },
+        {
+          "item": "Apples, grated",
+          "qty": "2",
+          "category": "carbs"
+        },
+        {
+          "item": "Pure maple syrup",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Ground cinnamon",
+          "qty": "1 tsp",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Combine all ingredients in a medium saucepan over medium heat.",
+        "Bring to a gentle boil, then cover and simmer 20 minutes.",
+        "Stir occasionally until porridge is tender and fragrant.",
+        "Serve immediately topped with extra apple or a drizzle of maple syrup."
+      ],
+      "nutrition": "Grain-free \u00b7 Dairy-free \u00b7 Natural sweetness from apple",
+      "nutritionSnapshot": [
+        "Cauliflower rice and coconut make a grain-free alternative to traditional oats",
+        "Apple provides natural sweetness and fibre without any added sugar",
+        "Cinnamon helps regulate blood sugar \u2014 ideal for growing children"
+      ],
+      "kidTip": "The apple and cinnamon smell incredible while cooking \u2014 builds great excitement.",
+      "ageTip": "Suitable for all ages including babies. A perfect first solid food base."
+    },
+    {
+      "id": "bb008",
+      "name": "Garden-Fresh Tomato & Basil Soup",
+      "emoji": "\ud83c\udf45",
+      "slot": [
+        "lunch",
+        "dinner"
+      ],
+      "cookMethod": "one-pot",
+      "time": "30 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "tomato",
+        "basil",
+        "soup",
+        "vegetarian",
+        "batch cook"
+      ],
+      "keyIngredients": [
+        "Roma tomatoes",
+        "chicken stock",
+        "coconut milk",
+        "garlic",
+        "basil"
+      ],
+      "ingredients": [
+        {
+          "item": "Avocado oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "White onion, sliced",
+          "qty": "1 medium",
+          "category": "veggies"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "3",
+          "category": "herbs"
+        },
+        {
+          "item": "Roma tomatoes, cored",
+          "qty": "1.5kg",
+          "category": "veggies"
+        },
+        {
+          "item": "Chicken bone broth or stock",
+          "qty": "1L",
+          "category": "other"
+        },
+        {
+          "item": "Tomato paste",
+          "qty": "1 tbsp",
+          "category": "veggies"
+        },
+        {
+          "item": "Full-fat coconut milk",
+          "qty": "\u00bd cup",
+          "category": "fats"
+        },
+        {
+          "item": "Fresh basil, chopped",
+          "qty": "\u2153 cup",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Heat oil in large pot, saut\u00e9 onion and garlic 3 minutes.",
+        "Add tomatoes and stock, bring to boil.",
+        "Cover and boil 10 minutes until tomatoes soften.",
+        "Transfer to blender, add tomato paste, coconut milk, salt and pepper.",
+        "Blend until smooth.",
+        "Fold in fresh basil and serve."
+      ],
+      "nutrition": "Lycopene from tomatoes \u00b7 Anti-inflammatory basil \u00b7 Dairy-free cream",
+      "nutritionSnapshot": [
+        "Tomatoes are rich in lycopene \u2014 a powerful antioxidant for heart health",
+        "Coconut milk adds creaminess without dairy",
+        "A classic soup children universally love"
+      ],
+      "kidTip": "Kids love dipping sourdough bread soldiers into this \u2014 pair together for a full meal.",
+      "ageTip": "Blended smooth \u2014 suitable for all ages including toddlers."
+    },
+    {
+      "id": "bb009",
+      "name": "Southwest Chili",
+      "emoji": "\ud83c\udf36\ufe0f",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "one-pot",
+      "time": "40 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "preschool",
+        "primary"
+      ],
+      "tags": [
+        "beef",
+        "chili",
+        "tomato",
+        "cumin",
+        "batch cook"
+      ],
+      "keyIngredients": [
+        "beef mince",
+        "tomatoes",
+        "cumin",
+        "chilli powder",
+        "paprika"
+      ],
+      "ingredients": [
+        {
+          "item": "Lean beef mince",
+          "qty": "500g",
+          "category": "protein"
+        },
+        {
+          "item": "White onion, diced",
+          "qty": "\u00bd",
+          "category": "veggies"
+        },
+        {
+          "item": "Tinned tomato sauce (passata)",
+          "qty": "400ml",
+          "category": "veggies"
+        },
+        {
+          "item": "Tinned diced tomatoes with chilli",
+          "qty": "400g",
+          "category": "veggies"
+        },
+        {
+          "item": "Chilli powder",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Ground cumin",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Smoked paprika",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Brown beef mince and onion in a large skillet over medium-high heat 5 minutes.",
+        "Add tomato sauce, diced tomatoes and all spices. Stir.",
+        "Bring to a gentle boil.",
+        "Cover and cook on low heat 20 minutes until thick and fragrant.",
+        "Serve over cauliflower rice or with sweet potato wedges."
+      ],
+      "nutrition": "High protein \u00b7 Lycopene from tomatoes \u00b7 Warming and filling",
+      "nutritionSnapshot": [
+        "Beef mince provides iron and zinc in their most bioavailable forms",
+        "Cumin and paprika add depth of flavour and anti-inflammatory benefits",
+        "Great batch cook \u2014 tastes even better the next day"
+      ],
+      "kidTip": "Reduce chilli powder by half for younger children. Serve with sour cream if they eat dairy.",
+      "ageTip": "Go easy on chilli for under-5s. Serve over rice for toddlers."
+    },
+    {
+      "id": "bb010",
+      "name": "Creamy Cauliflower Soup",
+      "emoji": "\ud83e\udd5b",
+      "slot": [
+        "lunch",
+        "dinner"
+      ],
+      "cookMethod": "one-pot",
+      "time": "35 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "cauliflower",
+        "soup",
+        "creamy",
+        "bacon",
+        "batch cook"
+      ],
+      "keyIngredients": [
+        "cauliflower",
+        "coconut milk",
+        "bacon",
+        "chicken stock",
+        "garlic"
+      ],
+      "ingredients": [
+        {
+          "item": "Bacon (nitrate-free), chopped",
+          "qty": "6 slices",
+          "category": "protein"
+        },
+        {
+          "item": "White onion, chopped",
+          "qty": "\u00bd",
+          "category": "veggies"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "3",
+          "category": "herbs"
+        },
+        {
+          "item": "Full-fat coconut milk",
+          "qty": "400ml tin",
+          "category": "fats"
+        },
+        {
+          "item": "Chicken bone broth",
+          "qty": "750ml",
+          "category": "other"
+        },
+        {
+          "item": "Large cauliflower head, chopped",
+          "qty": "1",
+          "category": "veggies"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        },
+        {
+          "item": "Fresh chives to garnish",
+          "qty": "handful",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Cook bacon in large pot over medium-high heat until crispy. Remove and set aside.",
+        "In bacon fat, saut\u00e9 onion and garlic 3 minutes until translucent.",
+        "Add coconut milk, broth, cauliflower, salt and pepper. Bring to boil.",
+        "Cover and simmer 15 minutes until cauliflower is fork-tender.",
+        "Blend until smooth and creamy.",
+        "Serve topped with crispy bacon bits and fresh chives."
+      ],
+      "nutrition": "Creamy without dairy \u00b7 Vitamin C from cauliflower \u00b7 Protein from bacon",
+      "nutritionSnapshot": [
+        "Cauliflower is rich in vitamin C and sulphur compounds supporting detoxification",
+        "Coconut milk makes this beautifully creamy without any dairy",
+        "The bacon topping adds crunch and protein \u2014 kids love it"
+      ],
+      "kidTip": "Let kids sprinkle the bacon bits and chives on top \u2014 they eat what they garnish.",
+      "ageTip": "Blend completely smooth for toddlers. Suitable for all ages."
+    },
+    {
+      "id": "bb011",
+      "name": "Classic Chicken Soup",
+      "emoji": "\ud83c\udf72",
+      "slot": [
+        "dinner",
+        "lunch"
+      ],
+      "cookMethod": "one-pot",
+      "time": "40 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "chicken",
+        "soup",
+        "classic",
+        "healing",
+        "batch cook"
+      ],
+      "keyIngredients": [
+        "chicken breast",
+        "carrots",
+        "celery",
+        "onion",
+        "bone broth",
+        "parsley"
+      ],
+      "ingredients": [
+        {
+          "item": "Extra virgin olive oil",
+          "qty": "\u00bc cup",
+          "category": "fats"
+        },
+        {
+          "item": "White onion, diced",
+          "qty": "1",
+          "category": "veggies"
+        },
+        {
+          "item": "Carrots, sliced",
+          "qty": "3",
+          "category": "veggies"
+        },
+        {
+          "item": "Celery stalks, chopped",
+          "qty": "4",
+          "category": "veggies"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "3",
+          "category": "herbs"
+        },
+        {
+          "item": "Chicken bone broth",
+          "qty": "2L",
+          "category": "other"
+        },
+        {
+          "item": "Cooked chicken breast, shredded",
+          "qty": "4 cups",
+          "category": "protein"
+        },
+        {
+          "item": "Fresh parsley, chopped",
+          "qty": "\u00bd cup",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Heat olive oil in large pot over medium heat.",
+        "Saut\u00e9 onion, carrots, celery and garlic with salt and pepper 5 minutes.",
+        "Add bone broth and bring to gentle boil.",
+        "Cover and simmer 15 minutes.",
+        "Add shredded chicken and parsley.",
+        "Season to taste and serve."
+      ],
+      "nutrition": "Anti-inflammatory bone broth \u00b7 Very high protein \u00b7 Gut-healing",
+      "nutritionSnapshot": [
+        "Chicken bone broth contains collagen and gelatin that support gut lining repair",
+        "Proven anti-inflammatory properties \u2014 the original healing food",
+        "One of the best meals when children are sick or run-down"
+      ],
+      "kidTip": "Add rice noodles or cauliflower rice for a heartier meal.",
+      "ageTip": "Blend smooth for babies. Suitable for all ages. Perfect for sick children."
+    },
+    {
+      "id": "bb012",
+      "name": "Perfectly Marinated Salmon",
+      "emoji": "\ud83d\udc1f",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "oven",
+      "time": "25 min",
+      "servings": 2,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "salmon",
+        "marinated",
+        "honey",
+        "coconut aminos",
+        "baked"
+      ],
+      "keyIngredients": [
+        "salmon",
+        "olive oil",
+        "coconut aminos",
+        "honey",
+        "garlic",
+        "lemon"
+      ],
+      "ingredients": [
+        {
+          "item": "Wild-caught salmon fillets",
+          "qty": "2 x 120g",
+          "category": "protein"
+        },
+        {
+          "item": "Extra virgin olive oil",
+          "qty": "4 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Coconut aminos (or tamari)",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Raw honey",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Fresh parsley, chopped",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic clove, minced",
+          "qty": "1",
+          "category": "herbs"
+        },
+        {
+          "item": "Lemon juice",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 220\u00b0C / 425\u00b0F. Line a baking sheet.",
+        "Combine olive oil, coconut aminos, honey, parsley, garlic, lemon, salt and pepper.",
+        "Coat salmon in the marinade. Leave 10 minutes at room temperature.",
+        "Place on baking sheet and bake 15 minutes until salmon has a slightly translucent pink centre.",
+        "Rest 5 minutes before serving."
+      ],
+      "nutrition": "Omega-3 rich \u00b7 Honey-glazed \u00b7 Simple and impressive",
+      "nutritionSnapshot": [
+        "Wild salmon provides the highest omega-3 DHA content for brain development",
+        "Coconut aminos replace soy sauce \u2014 gluten-free and lower sodium",
+        "The honey-garlic marinade creates a beautiful glaze kids love"
+      ],
+      "kidTip": "The sweet glaze makes this one of the most kid-friendly salmon dishes.",
+      "ageTip": "Check carefully for bones. Flake onto plate for younger children."
+    },
+    {
+      "id": "bb013",
+      "name": "Baked Salmon Patties",
+      "emoji": "\ud83d\udc1f",
+      "slot": [
+        "dinner",
+        "lunch"
+      ],
+      "cookMethod": "oven",
+      "time": "30 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "salmon",
+        "patties",
+        "baked",
+        "lunchbox",
+        "kids favourite"
+      ],
+      "keyIngredients": [
+        "tinned salmon",
+        "eggs",
+        "almond flour",
+        "onion",
+        "dill"
+      ],
+      "ingredients": [
+        {
+          "item": "Tinned wild salmon, drained",
+          "qty": "2 x 415g tins",
+          "category": "protein"
+        },
+        {
+          "item": "Eggs",
+          "qty": "2",
+          "category": "protein"
+        },
+        {
+          "item": "Almond flour",
+          "qty": "\u00bc cup",
+          "category": "fats"
+        },
+        {
+          "item": "White onion, finely diced",
+          "qty": "\u00bc",
+          "category": "veggies"
+        },
+        {
+          "item": "Fresh dill or parsley",
+          "qty": "2 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Lemon juice",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 190\u00b0C / 375\u00b0F. Line a baking sheet.",
+        "Drain salmon thoroughly and flake into a bowl removing any bones.",
+        "Mix in eggs, almond flour, onion, herbs, lemon, garlic powder, salt and pepper.",
+        "Form into 8 patties and place on baking sheet.",
+        "Bake 20\u201325 minutes, flipping halfway, until golden.",
+        "Serve with salad, sweet potato or in lunchboxes cold."
+      ],
+      "nutrition": "Omega-3 rich \u00b7 High protein \u00b7 Gluten-free \u00b7 Budget-friendly",
+      "nutritionSnapshot": [
+        "Tinned salmon is one of the most affordable and convenient omega-3 sources",
+        "Almond flour binding makes these naturally gluten-free",
+        "Great hot or cold \u2014 perfect for lunchboxes the next day"
+      ],
+      "kidTip": "Involve kids in patty-shaping \u2014 it increases how much they eat.",
+      "ageTip": "Soft texture suitable for all ages. Always check for any remaining bones."
+    },
+    {
+      "id": "bb014",
+      "name": "Orange Chicken with Broccoli",
+      "emoji": "\ud83c\udf4a",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "pan",
+      "time": "30 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "chicken",
+        "orange",
+        "broccoli",
+        "stir fry",
+        "kids favourite"
+      ],
+      "keyIngredients": [
+        "chicken breast",
+        "broccoli",
+        "orange juice",
+        "coconut aminos",
+        "honey",
+        "garlic"
+      ],
+      "ingredients": [
+        {
+          "item": "Chicken breast, cubed",
+          "qty": "600g",
+          "category": "protein"
+        },
+        {
+          "item": "Broccoli florets",
+          "qty": "400g",
+          "category": "veggies"
+        },
+        {
+          "item": "Orange juice (fresh)",
+          "qty": "\u00bd cup",
+          "category": "carbs"
+        },
+        {
+          "item": "Coconut aminos",
+          "qty": "3 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Raw honey",
+          "qty": "2 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "3",
+          "category": "herbs"
+        },
+        {
+          "item": "Fresh ginger, grated",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Arrowroot flour",
+          "qty": "1 tbsp",
+          "category": "carbs"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Sesame seeds to garnish",
+          "qty": "1 tbsp",
+          "category": "fats"
+        }
+      ],
+      "steps": [
+        "Mix orange juice, coconut aminos, honey, garlic and ginger in a small bowl.",
+        "Whisk in arrowroot flour until smooth. Set sauce aside.",
+        "Heat coconut oil in wok or large pan over high heat.",
+        "Cook chicken in batches until golden \u2014 about 5 minutes. Remove.",
+        "Add broccoli to pan, stir-fry 3 minutes.",
+        "Return chicken, pour sauce over and toss until thickened and glossy.",
+        "Serve over cauliflower rice or regular rice, garnish with sesame seeds."
+      ],
+      "nutrition": "High protein \u00b7 Vitamin C from orange and broccoli \u00b7 Natural sweetener",
+      "nutritionSnapshot": [
+        "Orange juice provides vitamin C which boosts iron absorption from chicken",
+        "Broccoli adds calcium, vitamin K and cancer-protective compounds",
+        "Sweetened with honey instead of refined sugar \u2014 a much healthier takeaway alternative"
+      ],
+      "kidTip": "The sweet orange glaze makes this one of the most popular family chicken dishes.",
+      "ageTip": "Cut chicken very small for toddlers. Broccoli becomes soft when stir-fried."
+    },
+    {
+      "id": "bb015",
+      "name": "Crispy Baked Chicken Thighs",
+      "emoji": "\ud83c\udf57",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "oven",
+      "time": "45 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "chicken thighs",
+        "crispy",
+        "baked",
+        "simple",
+        "family"
+      ],
+      "keyIngredients": [
+        "chicken thighs",
+        "garlic powder",
+        "paprika",
+        "onion powder"
+      ],
+      "ingredients": [
+        {
+          "item": "Bone-in skin-on chicken thighs",
+          "qty": "8",
+          "category": "protein"
+        },
+        {
+          "item": "Avocado oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Onion powder",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Smoked paprika",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 220\u00b0C / 425\u00b0F.",
+        "Pat chicken thighs completely dry with paper towel \u2014 key to crispy skin.",
+        "Brush with oil and season generously with all spices.",
+        "Place skin-side up on a wire rack over a baking tray.",
+        "Bake 35\u201340 minutes until skin is deeply golden and crispy.",
+        "Internal temperature should reach 75\u00b0C / 165\u00b0F.",
+        "Rest 5 minutes before serving."
+      ],
+      "nutrition": "High protein \u00b7 Iron-rich \u00b7 Crispy skin with minimal effort",
+      "nutritionSnapshot": [
+        "Chicken thighs contain more iron and zinc than breast meat",
+        "The dry rub creates an incredible crust with zero additives",
+        "One of the simplest high-protein family meals to prepare"
+      ],
+      "kidTip": "Kids love eating chicken on the bone \u2014 it's satisfying and interactive.",
+      "ageTip": "Remove from bone for toddlers. Ensure fully cooked through."
+    },
+    {
+      "id": "bb016",
+      "name": "Baja Chicken Fajitas",
+      "emoji": "\ud83c\udf2e",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "pan",
+      "time": "25 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "preschool",
+        "primary"
+      ],
+      "tags": [
+        "chicken",
+        "fajita",
+        "Mexican",
+        "capsicum",
+        "avocado"
+      ],
+      "keyIngredients": [
+        "chicken breast",
+        "capsicum",
+        "onion",
+        "cumin",
+        "avocado",
+        "lettuce wraps"
+      ],
+      "ingredients": [
+        {
+          "item": "Chicken breast, sliced into strips",
+          "qty": "600g",
+          "category": "protein"
+        },
+        {
+          "item": "Red and green capsicum, sliced",
+          "qty": "2",
+          "category": "veggies"
+        },
+        {
+          "item": "Red onion, sliced",
+          "qty": "1",
+          "category": "veggies"
+        },
+        {
+          "item": "Ground cumin",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Smoked paprika",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Avocado, sliced",
+          "qty": "2",
+          "category": "fats"
+        },
+        {
+          "item": "Large lettuce leaves (for wraps)",
+          "qty": "8",
+          "category": "veggies"
+        },
+        {
+          "item": "Lime juice",
+          "qty": "2 tbsp",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Season chicken strips with cumin, paprika, garlic powder, salt and pepper.",
+        "Heat coconut oil in a large pan over high heat.",
+        "Cook chicken 5\u20136 minutes until golden. Remove and set aside.",
+        "Add capsicum and onion to same pan, cook 4 minutes until slightly charred.",
+        "Return chicken to pan, squeeze lime juice over, toss together.",
+        "Serve in large lettuce leaves topped with sliced avocado."
+      ],
+      "nutrition": "High protein \u00b7 Vitamin C from capsicum \u00b7 Grain-free wraps",
+      "nutritionSnapshot": [
+        "Capsicum contains more vitamin C than oranges",
+        "Using lettuce leaves as wraps eliminates grains and adds hydrating crunch",
+        "A complete meal in one pan \u2014 protein, fat and vegetables all together"
+      ],
+      "kidTip": "Kids love building their own fajita wraps \u2014 totally interactive and fun.",
+      "ageTip": "Cut chicken small for toddlers. Skip chilli for younger children."
+    },
+    {
+      "id": "bb017",
+      "name": "Slow Cooker Beef Roast with Gravy",
+      "emoji": "\ud83c\udf56",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "slow-cooker",
+      "time": "8 hrs",
+      "servings": 6,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "beef",
+        "roast",
+        "slow cooker",
+        "gravy",
+        "batch cook",
+        "Sunday"
+      ],
+      "keyIngredients": [
+        "beef chuck roast",
+        "beef stock",
+        "garlic",
+        "onion",
+        "carrots",
+        "thyme"
+      ],
+      "ingredients": [
+        {
+          "item": "Beef chuck roast",
+          "qty": "1.5kg",
+          "category": "protein"
+        },
+        {
+          "item": "Beef stock",
+          "qty": "500ml",
+          "category": "other"
+        },
+        {
+          "item": "White onion, quartered",
+          "qty": "1",
+          "category": "veggies"
+        },
+        {
+          "item": "Carrots, chunked",
+          "qty": "3",
+          "category": "veggies"
+        },
+        {
+          "item": "Garlic cloves",
+          "qty": "4",
+          "category": "herbs"
+        },
+        {
+          "item": "Fresh thyme",
+          "qty": "2 sprigs",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        },
+        {
+          "item": "Arrowroot flour (for gravy)",
+          "qty": "2 tbsp",
+          "category": "other"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "1 tbsp",
+          "category": "fats"
+        }
+      ],
+      "steps": [
+        "Season beef generously with salt and pepper.",
+        "Brown beef on all sides in coconut oil \u2014 optional but adds depth.",
+        "Place all ingredients in slow cooker.",
+        "Cook on low 7\u20138 hours or high 4\u20135 hours until beef falls apart.",
+        "Remove beef and shred with two forks.",
+        "Whisk arrowroot into the cooking liquid to make gravy.",
+        "Serve beef with gravy over mashed sweet potato or roasted vegetables."
+      ],
+      "nutrition": "Very high protein \u00b7 Iron and B12 rich \u00b7 Collagen from slow cooking",
+      "nutritionSnapshot": [
+        "Slow cooking creates collagen from the connective tissue \u2014 excellent for gut health",
+        "Beef provides iron and B12 in their most bioavailable forms",
+        "Add everything in the morning \u2014 an effortless family dinner waits when you get home"
+      ],
+      "kidTip": "The falling-apart beef is universally loved by children \u2014 tender and easy to chew.",
+      "ageTip": "Perfectly tender for all ages including toddlers. Serve over mash for little ones."
+    },
+    {
+      "id": "bb018",
+      "name": "Beef & Broccoli Stir-Fry",
+      "emoji": "\ud83e\udd66",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "wok",
+      "time": "20 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "beef",
+        "broccoli",
+        "stir fry",
+        "coconut aminos",
+        "quick",
+        "iron"
+      ],
+      "keyIngredients": [
+        "beef strips",
+        "broccoli",
+        "coconut aminos",
+        "garlic",
+        "ginger",
+        "sesame oil"
+      ],
+      "ingredients": [
+        {
+          "item": "Beef sirloin or rump, thinly sliced",
+          "qty": "500g",
+          "category": "protein"
+        },
+        {
+          "item": "Broccoli florets",
+          "qty": "400g",
+          "category": "veggies"
+        },
+        {
+          "item": "Coconut aminos",
+          "qty": "\u2153 cup",
+          "category": "herbs"
+        },
+        {
+          "item": "Raw honey",
+          "qty": "1 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "3",
+          "category": "herbs"
+        },
+        {
+          "item": "Fresh ginger, grated",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Arrowroot flour",
+          "qty": "1 tbsp",
+          "category": "carbs"
+        },
+        {
+          "item": "Sesame oil",
+          "qty": "1 tsp",
+          "category": "fats"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Rice or cauliflower rice to serve",
+          "qty": "2 cups",
+          "category": "carbs"
+        }
+      ],
+      "steps": [
+        "Whisk coconut aminos, honey, garlic, ginger and arrowroot together. Set aside.",
+        "Heat coconut oil in wok on very high heat.",
+        "Cook beef in batches 2\u20133 minutes until browned. Remove.",
+        "Add broccoli to wok, stir-fry 3 minutes.",
+        "Return beef, add sauce, toss until thick and glossy \u2014 about 2 minutes.",
+        "Drizzle sesame oil, serve over rice or cauliflower rice."
+      ],
+      "nutrition": "Iron from beef and broccoli \u00b7 Quick \u00b7 A classic combination",
+      "nutritionSnapshot": [
+        "Beef and broccoli together provide exceptional iron \u2014 much better absorbed than plant sources alone",
+        "Coconut aminos replace soy sauce with a gluten-free lower-sodium alternative",
+        "Ready in under 20 minutes \u2014 faster than ordering takeaway"
+      ],
+      "kidTip": "A healthier version of Chinese takeaway \u2014 kids absolutely love it.",
+      "ageTip": "Cut beef very small for toddlers. Reduce coconut aminos for younger children."
+    },
+    {
+      "id": "bb019",
+      "name": "Swedish Meatballs",
+      "emoji": "\ud83c\udf56",
+      "slot": [
+        "dinner"
+      ],
+      "cookMethod": "oven",
+      "time": "40 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "beef",
+        "meatballs",
+        "Swedish",
+        "gravy",
+        "kids favourite"
+      ],
+      "keyIngredients": [
+        "beef mince",
+        "pork mince",
+        "egg",
+        "nutmeg",
+        "coconut milk",
+        "beef stock"
+      ],
+      "ingredients": [
+        {
+          "item": "Lean beef mince",
+          "qty": "400g",
+          "category": "protein"
+        },
+        {
+          "item": "Pork mince",
+          "qty": "200g",
+          "category": "protein"
+        },
+        {
+          "item": "Egg",
+          "qty": "1",
+          "category": "protein"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Onion powder",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Ground nutmeg",
+          "qty": "\u00bc tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        },
+        {
+          "item": "Beef stock",
+          "qty": "500ml",
+          "category": "other"
+        },
+        {
+          "item": "Full-fat coconut milk",
+          "qty": "\u00bd cup",
+          "category": "fats"
+        },
+        {
+          "item": "Arrowroot flour",
+          "qty": "2 tbsp",
+          "category": "other"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "1 tbsp",
+          "category": "fats"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 190\u00b0C. Mix beef, pork, egg and spices together.",
+        "Roll into 20 small meatballs and bake 20\u201325 minutes.",
+        "Meanwhile make gravy: heat stock in a saucepan, whisk in arrowroot until thick.",
+        "Stir in coconut milk and simmer 5 minutes.",
+        "Add baked meatballs to gravy and serve over mashed sweet potato."
+      ],
+      "nutrition": "High protein \u00b7 Two-meat blend for extra flavour \u00b7 Dairy-free gravy",
+      "nutritionSnapshot": [
+        "Combining beef and pork creates exceptionally flavourful meatballs",
+        "The coconut milk gravy is dairy-free and incredibly creamy",
+        "A universally beloved children's meal \u2014 meatballs work every time"
+      ],
+      "kidTip": "Kids love rolling meatballs \u2014 set them up as the sous chef.",
+      "ageTip": "Cut meatballs in half for younger children. Gravy adds moisture making them easy to chew."
+    },
+    {
+      "id": "bb020",
+      "name": "Sunrise Breakfast Hash",
+      "emoji": "\ud83e\udd58",
+      "slot": [
+        "breakfast"
+      ],
+      "cookMethod": "pan",
+      "time": "20 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "beef",
+        "sweet potato",
+        "hash",
+        "breakfast",
+        "quick"
+      ],
+      "keyIngredients": [
+        "beef mince",
+        "sweet potato",
+        "onion",
+        "garlic"
+      ],
+      "ingredients": [
+        {
+          "item": "Coconut oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Sweet potato, peeled and diced small",
+          "qty": "1 large",
+          "category": "carbs"
+        },
+        {
+          "item": "White onion, chopped",
+          "qty": "1",
+          "category": "veggies"
+        },
+        {
+          "item": "Beef mince (80/20)",
+          "qty": "500g",
+          "category": "protein"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Onion powder",
+          "qty": "2 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt",
+          "qty": "1 tsp",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Heat coconut oil in cast iron skillet over medium-high heat.",
+        "Cook sweet potato and onion 8 minutes until sweet potato is tender.",
+        "Transfer to a bowl.",
+        "Brown beef mince in same skillet 5 minutes. Drain excess fat.",
+        "Add garlic powder, onion powder and salt to beef.",
+        "Return vegetables to skillet, stir to combine and serve."
+      ],
+      "nutrition": "High protein \u00b7 Beta-carotene from sweet potato \u00b7 Filling and balanced",
+      "nutritionSnapshot": [
+        "Sweet potato provides beta-carotene and slow-release energy to power the morning",
+        "Beef mince gives iron and zinc for immune function and growth",
+        "A complete breakfast protein + carbs + vegetables in one pan"
+      ],
+      "kidTip": "Who said breakfast can't be like dinner? Kids love this hearty hash.",
+      "ageTip": "Dice everything very small for toddlers. Suitable for all ages."
+    },
+    {
+      "id": "bb021",
+      "name": "Chocolate Chip Coconut Balls",
+      "emoji": "\ud83c\udf6b",
+      "slot": [
+        "snack"
+      ],
+      "cookMethod": "no-cook",
+      "time": "15 min + 30 min chill",
+      "servings": 16,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "treat",
+        "chocolate",
+        "coconut",
+        "no bake",
+        "lunchbox"
+      ],
+      "keyIngredients": [
+        "desiccated coconut",
+        "almond butter",
+        "maple syrup",
+        "cacao",
+        "coconut oil"
+      ],
+      "ingredients": [
+        {
+          "item": "Unsweetened desiccated coconut",
+          "qty": "2 cups",
+          "category": "fats"
+        },
+        {
+          "item": "Almond butter",
+          "qty": "\u00bd cup",
+          "category": "fats"
+        },
+        {
+          "item": "Pure maple syrup",
+          "qty": "3 tbsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Raw cacao powder",
+          "qty": "2 tbsp",
+          "category": "other"
+        },
+        {
+          "item": "Coconut oil, melted",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Paleo chocolate chips or chopped dark chocolate",
+          "qty": "\u00bc cup",
+          "category": "other"
+        },
+        {
+          "item": "Vanilla extract",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt",
+          "qty": "pinch",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Combine coconut, almond butter, maple syrup, cacao, coconut oil, vanilla and salt.",
+        "Mix thoroughly until a sticky dough forms.",
+        "Fold in chocolate chips.",
+        "Roll into 16 balls using your hands.",
+        "Place on a lined tray and refrigerate 30 minutes until firm.",
+        "Store in airtight container in fridge up to 2 weeks or freeze."
+      ],
+      "nutrition": "No refined sugar \u00b7 Healthy fats \u00b7 Natural sweetener",
+      "nutritionSnapshot": [
+        "Almond butter and coconut provide healthy fats for sustained energy",
+        "Sweetened only with maple syrup \u2014 no refined sugar",
+        "Freezes beautifully \u2014 make a big batch and grab from freezer as needed"
+      ],
+      "kidTip": "Kids love rolling these \u2014 it's the perfect no-bake cooking activity.",
+      "ageTip": "Suitable for all ages. Check for nut allergies. Cut in half for toddlers."
+    },
+    {
+      "id": "bb022",
+      "name": "Paleo Chocolate Muffins",
+      "emoji": "\ud83e\uddc1",
+      "slot": [
+        "snack"
+      ],
+      "cookMethod": "oven",
+      "time": "35 min",
+      "servings": 12,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "treat",
+        "chocolate",
+        "muffins",
+        "gluten-free",
+        "paleo",
+        "kids favourite"
+      ],
+      "keyIngredients": [
+        "almond flour",
+        "cacao",
+        "eggs",
+        "maple syrup",
+        "coconut oil"
+      ],
+      "ingredients": [
+        {
+          "item": "Blanched almond flour",
+          "qty": "2 cups",
+          "category": "fats"
+        },
+        {
+          "item": "Raw cacao powder",
+          "qty": "\u2153 cup",
+          "category": "other"
+        },
+        {
+          "item": "Baking soda",
+          "qty": "1 tsp",
+          "category": "other"
+        },
+        {
+          "item": "Sea salt",
+          "qty": "\u00bc tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Eggs",
+          "qty": "3",
+          "category": "protein"
+        },
+        {
+          "item": "Pure maple syrup",
+          "qty": "\u00bd cup",
+          "category": "herbs"
+        },
+        {
+          "item": "Coconut oil, melted",
+          "qty": "\u00bc cup",
+          "category": "fats"
+        },
+        {
+          "item": "Vanilla extract",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Paleo chocolate chips",
+          "qty": "\u00bd cup",
+          "category": "other"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 175\u00b0C / 350\u00b0F. Line a muffin tin.",
+        "Combine almond flour, cacao, baking soda and salt in a bowl.",
+        "Whisk eggs, maple syrup, coconut oil and vanilla in another bowl.",
+        "Fold wet into dry until just combined.",
+        "Stir in chocolate chips.",
+        "Fill muffin cups two-thirds full.",
+        "Bake 20\u201322 minutes until a toothpick comes out clean.",
+        "Cool completely before serving."
+      ],
+      "nutrition": "Gluten-free \u00b7 No refined sugar \u00b7 Rich antioxidants from cacao",
+      "nutritionSnapshot": [
+        "Almond flour provides healthy fats and is naturally gluten-free",
+        "Raw cacao is rich in magnesium and antioxidants",
+        "Sweetened with maple syrup \u2014 much lower glycemic impact than refined sugar"
+      ],
+      "kidTip": "Kids can help scoop batter into muffin cases \u2014 they feel very involved.",
+      "ageTip": "Suitable for all ages. Check for nut allergies."
+    },
+    {
+      "id": "bb023",
+      "name": "Seasoned Carrot Fries",
+      "emoji": "\ud83e\udd55",
+      "slot": [
+        "snack",
+        "dinner"
+      ],
+      "cookMethod": "oven",
+      "time": "35 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free",
+        "vegetarian"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "carrots",
+        "fries",
+        "snack",
+        "roasted",
+        "kids favourite"
+      ],
+      "keyIngredients": [
+        "carrots",
+        "olive oil",
+        "garlic powder",
+        "paprika"
+      ],
+      "ingredients": [
+        {
+          "item": "Carrots, peeled and cut into thin sticks",
+          "qty": "600g",
+          "category": "veggies"
+        },
+        {
+          "item": "Olive oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        },
+        {
+          "item": "Garlic powder",
+          "qty": "1 tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Smoked paprika",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 210\u00b0C / 425\u00b0F.",
+        "Cut carrots into thin, uniform sticks \u2014 the thinner the crispier.",
+        "Toss with olive oil, garlic powder, paprika, salt and pepper.",
+        "Spread in a single layer on a baking tray \u2014 do not crowd.",
+        "Roast 25\u201330 minutes, turning halfway, until edges are caramelised.",
+        "Serve immediately \u2014 best eaten hot."
+      ],
+      "nutrition": "Beta-carotene \u00b7 Naturally sweet \u00b7 Much healthier than potato fries",
+      "nutritionSnapshot": [
+        "Carrots are one of the richest food sources of beta-carotene (vitamin A)",
+        "Natural caramelisation during roasting develops a sweetness children love",
+        "Far healthier than regular chips with a fraction of the calories"
+      ],
+      "kidTip": "Present as 'carrot fries' not carrots \u2014 the rebranding works every time!",
+      "ageTip": "Suitable for all ages. Soft when roasted \u2014 easy for toddlers."
+    },
+    {
+      "id": "bb024",
+      "name": "Turkey & Squash Apple Hash",
+      "emoji": "\ud83e\udd83",
+      "slot": [
+        "breakfast",
+        "dinner"
+      ],
+      "cookMethod": "pan",
+      "time": "25 min",
+      "servings": 4,
+      "dietary": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "ageGroups": [
+        "all"
+      ],
+      "tags": [
+        "turkey",
+        "pumpkin",
+        "apple",
+        "hash",
+        "autumn",
+        "paleo"
+      ],
+      "keyIngredients": [
+        "turkey mince",
+        "butternut squash",
+        "apple",
+        "onion",
+        "cinnamon"
+      ],
+      "ingredients": [
+        {
+          "item": "Turkey mince",
+          "qty": "500g",
+          "category": "protein"
+        },
+        {
+          "item": "Butternut squash or pumpkin, small diced",
+          "qty": "2 cups",
+          "category": "carbs"
+        },
+        {
+          "item": "Green apple, diced",
+          "qty": "1",
+          "category": "carbs"
+        },
+        {
+          "item": "White onion, diced",
+          "qty": "1",
+          "category": "veggies"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "qty": "2",
+          "category": "herbs"
+        },
+        {
+          "item": "Ground cinnamon",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Ground sage",
+          "qty": "\u00bd tsp",
+          "category": "herbs"
+        },
+        {
+          "item": "Sea salt and pepper",
+          "qty": "to taste",
+          "category": "herbs"
+        },
+        {
+          "item": "Coconut oil",
+          "qty": "2 tbsp",
+          "category": "fats"
+        }
+      ],
+      "steps": [
+        "Heat coconut oil in large skillet over medium-high heat.",
+        "Cook squash and onion 7\u20138 minutes until squash is tender.",
+        "Add garlic and cook 1 minute more.",
+        "Add turkey mince and cook until browned, breaking up as it cooks.",
+        "Add apple, cinnamon and sage. Stir to combine.",
+        "Cook 3 more minutes until apple softens.",
+        "Season and serve."
+      ],
+      "nutrition": "Lean protein from turkey \u00b7 Beta-carotene from squash \u00b7 Apple adds natural sweetness",
+      "nutritionSnapshot": [
+        "Turkey is one of the leanest protein sources available",
+        "Apple and cinnamon create natural sweetness that children love",
+        "Butternut squash provides beta-carotene and vitamin A"
+      ],
+      "kidTip": "The sweet apple and cinnamon make this smell incredible \u2014 kids will ask what's cooking.",
+      "ageTip": "Soft textures throughout \u2014 suitable for all ages. Perfect autumn/winter meal."
     }
   ]
 }
